@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/adm808/Sabatini_Lab/Finalized_Code/train_set_create.py", line 18, in <module>
+    logfile = os.path.join(OUTPUT_DIR, "debug_output.log")
+NameError: name 'OUTPUT_DIR' is not defined
