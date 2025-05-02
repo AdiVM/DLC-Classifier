@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 # To submit this I will call submit_trainset.sh
 
 import os
@@ -18,7 +16,7 @@ import sys
 
 # --- CONFIGURATION ---
 ROOT_DIR = "/n/scratch/users/a/adm808/Sabatini_Lab/behavior_samples"
-OUTPUT_DIR = "/n/scratch/users/a/adm808/Sabatini_Lab/ZoneDetection2-adi-2025-04-23/labeled-data/dummy_video_final/"
+OUTPUT_DIR = "/n/scratch/users/a/adm808/Sabatini_Lab/ZoneDetection2-adi-2025-04-23/labeled-data/dummy_video/"
 PERCENTILE = 95  # Percentile for interesting frames
 WINDOW_SIZE = 0  # Can update if needed
 
@@ -29,7 +27,7 @@ sys.stdout = open(logfile, "w")
 sys.stderr = sys.stdout
 
 # Creating a file to store names for top zones
-top_frame_csv_path = os.path.join(output_dir, "top_zone_frames_summary.csv")
+top_frame_csv_path = os.path.join(OUTPUT_DIR, "top_zone_frames_summary.csv")
 with open(top_frame_csv_path, mode='w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["video", "zone", "frame_index", "diff_sum"])
@@ -230,7 +228,7 @@ def overlay_zones(frame, prev_gray, zones, zone_thresholds, alpha=0.05):
 
     return fig, zone_coords_list, zone_points
 
-def process_video(video_path, zone_path, frame_indices, output_dir, csv_log_path, zone_csv_path):
+def process_video(video_path, zone_path, frame_indices, output_dir, csv_log_path, zone_csv_path, top_frame_csv_path):
     print(f"\nProcessing {video_path}")
     zones = load_mat_file(zone_path)
     cap = cv2.VideoCapture(video_path)
@@ -266,10 +264,10 @@ def process_video(video_path, zone_path, frame_indices, output_dir, csv_log_path
 
     # Write this information to the CSV defined above
     with open(top_frame_csv_path, mode='a', newline='') as file:
-    writer = csv.writer(file)
-    for zone_name, top_frames in zone_frame_map.items():
-        for frame_idx, diff_sum in top_frames:
-            writer.writerow([os.path.basename(video_path), zone_name, frame_idx, diff_sum])
+        writer = csv.writer(file)
+        for zone_name, top_frames in zone_frame_map.items():
+            for frame_idx, diff_sum in top_frames:
+                writer.writerow([os.path.basename(video_path), zone_name, frame_idx, diff_sum])
 
     zone_means = []
     zone_stds = []
@@ -285,11 +283,13 @@ def process_video(video_path, zone_path, frame_indices, output_dir, csv_log_path
             zone_thresholds[f"Zone{i+1}"] = np.inf
             continue
 
+        # Get coordinates of the zone
+        
         y_coords = zone["dim2points"].flatten()[active] - 1
         x_coords = zone["dim1points"].flatten()[active] - 1
         x_coords = np.maximum(x_coords, 0)
         y_coords = np.clip(y_coords, 0, height - 1)
-
+        # and calculate the mask
         if len(x_coords) >= 3:
             mask = get_zone_mask((height, width), x_coords, y_coords)
             diffs = []
@@ -325,7 +325,8 @@ def process_video(video_path, zone_path, frame_indices, output_dir, csv_log_path
         if not has_active_zone:
             print(f"Skipping frame {frame_num} — no active zones detected")
             continue
-
+        
+        # Saving the raw image
         base = os.path.basename(video_path).replace(".AVI", "")
         raw_path = os.path.join(output_dir, f"{base}_frame_{frame_num}_raw.png")
         plt.imsave(raw_path, frame)
@@ -399,7 +400,7 @@ if __name__ == "__main__":
 
     for video_path, zone_path in sampled_pairs:
         interesting = find_interesting_frames_streaming(video_path, percentile=PERCENTILE)
-        process_video(video_path, zone_path, interesting, OUTPUT_DIR, csv_log_path, zone_csv_path)
+        process_video(video_path, zone_path, interesting, OUTPUT_DIR, csv_log_path, zone_csv_path, top_frame_csv_path)
 
-    generate_dlc_csv(zone_csv_path, OUTPUT_DIR)
+    #generate_dlc_csv(zone_csv_path, OUTPUT_DIR)
 
