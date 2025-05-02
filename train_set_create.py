@@ -18,7 +18,7 @@ import sys
 
 # --- CONFIGURATION ---
 ROOT_DIR = "/n/scratch/users/a/adm808/Sabatini_Lab/behavior_samples"
-OUTPUT_DIR = "/n/scratch/users/a/adm808/Sabatini_Lab/ZoneDetection2-adi-2025-04-23/labeled-data/dummy_video/"
+OUTPUT_DIR = "/n/scratch/users/a/adm808/Sabatini_Lab/ZoneDetection2-adi-2025-04-23/labeled-data/dummy_video_final/"
 PERCENTILE = 95  # Percentile for interesting frames
 WINDOW_SIZE = 0  # Can update if needed
 
@@ -27,6 +27,13 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 logfile = os.path.join(OUTPUT_DIR, "debug_output.log")
 sys.stdout = open(logfile, "w")
 sys.stderr = sys.stdout
+
+# Creating a file to store names for top zones
+top_frame_csv_path = os.path.join(output_dir, "top_zone_frames_summary.csv")
+with open(top_frame_csv_path, mode='w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(["video", "zone", "frame_index", "diff_sum"])
+
 
 # --- CSV LOGGING ---
 def init_csv(output_dir):
@@ -238,14 +245,32 @@ def process_video(video_path, zone_path, frame_indices, output_dir, csv_log_path
 
     zone_frame_map = find_top_frames_per_zone(zones, gray_frames, num_frames=4)
 
-    # Write this information to separate CSV
-    top_frame_csv_path = os.path.join(output_dir, "top_zone_frames_summary.csv")
-    with open(top_frame_csv_path, mode='w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(["zone", "frame_index", "diff_sum"])
-        for zone_name, top_frames in zone_frame_map.items():
-            for frame_idx, diff_sum in top_frames:
-                writer.writerow([zone_name, frame_idx, diff_sum])
+    # Collect top frames per zone
+    zone_selected_frames = set()
+    for top_frames in zone_frame_map.values():
+        for frame_idx, _ in top_frames:
+            zone_selected_frames.add(frame_idx)
+
+    # Calculate how many remaining slots are available
+    remaining_slots = FRAMES_PER_VIDEO - len(zone_selected_frames)
+
+    # Pick from global interesting frames to fill
+    remaining_global_frames = list(set(frame_indices) - zone_selected_frames)
+    if remaining_slots > 0 and remaining_global_frames:
+        additional_frames = random.sample(remaining_global_frames, min(remaining_slots, len(remaining_global_frames)))
+    else:
+        additional_frames = []
+
+    # Final combined list
+    final_selected_frames = sorted(set(zone_selected_frames).union(additional_frames))
+
+    # Write this information to the CSV defined above
+    with open(top_frame_csv_path, mode='a', newline='') as file:
+    writer = csv.writer(file)
+    for zone_name, top_frames in zone_frame_map.items():
+        for frame_idx, diff_sum in top_frames:
+            writer.writerow([os.path.basename(video_path), zone_name, frame_idx, diff_sum])
+
     zone_means = []
     zone_stds = []
 
@@ -281,7 +306,7 @@ def process_video(video_path, zone_path, frame_indices, output_dir, csv_log_path
     dlc_rows = []
     # For each selected frame use its immediate previous frame
 
-    for frame_num in frame_indices:
+    for frame_num in final_selected_frames:
         try:
             frame = get_frame(cap, frame_num)
         except Exception as e:
@@ -293,15 +318,27 @@ def process_video(video_path, zone_path, frame_indices, output_dir, csv_log_path
         else:
             prev_gray_frame = gray_frames[frame_num - 1]
 
+        fig, zone_coords_list, zone_points = overlay_zones(frame, prev_gray_frame, zones, zone_thresholds)
+
+        # Check if at least one zone is active
+        has_active_zone = any(not np.isnan(x) and not np.isnan(y) for x, y in zone_points.values())
+        if not has_active_zone:
+            print(f"Skipping frame {frame_num} — no active zones detected")
+            continue
+
         base = os.path.basename(video_path).replace(".AVI", "")
         raw_path = os.path.join(output_dir, f"{base}_frame_{frame_num}_raw.png")
         plt.imsave(raw_path, frame)
 
-        fig, zone_coords_list, zone_points = overlay_zones(frame, prev_gray_frame, zones, zone_thresholds)
-
         output_path = os.path.join(output_dir, f"{base}_frame_{frame_num}.png")
-        fig.subplots_adjust(left=0, right=1, top=1, bottom=0)
-        fig.savefig(output_path, dpi=100)
+        # Ensuring left most LEDs do not get cutoff
+        fig.subplots_adjust(left=0.01, right=0.99, top=0.99, bottom=0.01)
+        fig.savefig(output_path, dpi=100, bbox_inches='tight', pad_inches=0.1)
+
+        # Saving which frames were processed and saved (from whcih video they came, which frame, and how many zones they had for debugging purposes)
+        active_zones = sum([~np.isnan(x) and ~np.isnan(y) for x, y in zone_points.values()])
+        total_points = sum([len(x) for _, x, _ in zone_coords_list])
+        log_to_csv(csv_log_path, base, frame_num, active_zones, total_points, output_path)
 
         row = {'video': base, 'image_path': output_path}
         for zone_name, (x, y) in zone_points.items():
@@ -348,8 +385,8 @@ def process_video(video_path, zone_path, frame_indices, output_dir, csv_log_path
 
 # --- MAIN SCRIPT ---
 if __name__ == "__main__":
-    MAX_VIDEOS = 3
-    FRAMES_PER_VIDEO = 100
+    MAX_VIDEOS = 10
+    FRAMES_PER_VIDEO = 40
 
     pairs = find_all_videos_and_zones(ROOT_DIR)
     print(f"Found {len(pairs)} total video-zone pairs.")
@@ -362,12 +399,7 @@ if __name__ == "__main__":
 
     for video_path, zone_path in sampled_pairs:
         interesting = find_interesting_frames_streaming(video_path, percentile=PERCENTILE)
-        if not interesting:
-            print(f"Skipping {video_path} — not enough interesting frames.")
-            continue
-
-        selected_frames = random.sample(interesting, min(FRAMES_PER_VIDEO, len(interesting)))
-        process_video(video_path, zone_path, selected_frames, OUTPUT_DIR, csv_log_path, zone_csv_path)
+        process_video(video_path, zone_path, interesting, OUTPUT_DIR, csv_log_path, zone_csv_path)
 
     generate_dlc_csv(zone_csv_path, OUTPUT_DIR)
 
