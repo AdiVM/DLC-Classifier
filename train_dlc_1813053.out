@@ -1,0 +1,24 @@
+GPUs available:
+[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+Loading DLC 2.2.3...
+DLC loaded in light mode; you cannot use any GUI (labeling, relabeling and standalone GUI)
+Selecting single-animal trainer
+Batch Size is 1
+Loading ImageNet-pretrained resnet_50
+Display_iters overwritten as 100
+Save_iters overwritten as 1000
+Training parameter:
+{'stride': 8.0, 'weigh_part_predictions': False, 'weigh_negatives': False, 'fg_fraction': 0.25, 'mean_pixel': [123.68, 116.779, 103.939], 'shuffle': True, 'snapshot_prefix': '/n/scratch/users/a/adm808/Sabatini_Lab/ZoneDetection2-adi-2025-04-23/dlc-models/iteration-0/ZoneDetection2Apr23-trainset95shuffle1/train/snapshot', 'log_dir': 'log', 'global_scale': 0.8, 'location_refinement': True, 'locref_stdev': 7.2801, 'locref_loss_weight': 0.05, 'locref_huber_loss': True, 'optimizer': 'sgd', 'intermediate_supervision': False, 'intermediate_supervision_layer': 12, 'regularize': False, 'weight_decay': 0.0001, 'crop_pad': 0, 'scoremap_dir': 'test', 'batch_size': 1, 'dataset_type': 'default', 'deterministic': False, 'mirror': False, 'pairwise_huber_loss': False, 'weigh_only_present_joints': False, 'partaffinityfield_predict': False, 'pairwise_predict': False, 'all_joints': [[0], [1], [2], [3], [4], [5], [6], [7]], 'all_joints_names': ['Zone1', 'Zone2', 'Zone3', 'Zone4', 'Zone5', 'Zone6', 'Zone7', 'Zone8'], 'alpha_r': 0.02, 'apply_prob': 0.5, 'contrast': {'clahe': True, 'claheratio': 0.1, 'histeq': True, 'histeqratio': 0.1, 'gamma': False, 'sigmoid': False, 'log': False, 'linear': False}, 'convolution': {'edge': False, 'emboss': {'alpha': [0.0, 1.0], 'strength': [0.5, 1.5]}, 'embossratio': 0.1, 'sharpen': False, 'sharpenratio': 0.3}, 'cropratio': 0.4, 'dataset': 'training-datasets/iteration-0/UnaugmentedDataSet_ZoneDetection2Apr23/ZoneDetection2_adi95shuffle1.mat', 'decay_steps': 30000, 'display_iters': 1000, 'init_weights': '/n/scratch/users/a/adm808/envs/DLC_venv_py39/lib/python3.9/site-packages/deeplabcut/pose_estimation_tensorflow/models/pretrained/resnet_v1_50.ckpt', 'lr_init': 0.0005, 'max_input_size': 1500, 'metadataset': 'training-datasets/iteration-0/UnaugmentedDataSet_ZoneDetection2Apr23/Documentation_data-ZoneDetection2_95shuffle1.pickle', 'min_input_size': 64, 'multi_stage': False, 'multi_step': [[0.005, 10000], [0.02, 430000], [0.002, 730000], [0.001, 1030000]], 'net_type': 'resnet_50', 'num_joints': 8, 'pos_dist_thresh': 17, 'project_path': '/n/scratch/users/a/adm808/Sabatini_Lab/ZoneDetection2-adi-2025-04-23', 'rotation': 25, 'rotratio': 0.4, 'save_iters': 50000, 'scale_jitter_lo': 0.5, 'scale_jitter_up': 1.25, 'covering': True, 'elastic_transform': True, 'motion_blur': True, 'motion_blur_params': {'k': 7, 'angle': (-90, 90)}}
+Starting training....
+The network is now trained and ready to evaluate. Use the function 'evaluate_network' to evaluate the network.
+Running  DLC_resnet50_ZoneDetection2Apr23shuffle1_1030000  with # of training iterations: 1030000
+Running evaluation ...
+Analysis is done and the results are stored (see evaluation-results) for snapshot:  snapshot-1030000
+Results for 1030000  training iterations: 95 1 train error: 1.93 pixels. Test error: 2.05  pixels.
+With pcutoff of 0.6  train error: 1.93 pixels. Test error: 2.05 pixels
+Thereby, the errors are given by the average distances between the labels by DLC and the scorer.
+Plotting...
+The network is evaluated and the results are stored in the subdirectory 'evaluation_results'.
+Please check the results, then choose the best model (snapshot) for prediction. You can update the config.yaml file with the appropriate index for the 'snapshotindex'.
+Use the function 'analyze_video' to make predictions on new videos.
+Otherwise, consider adding more labeled-data and retraining the network (see DeepLabCut workflow Fig 2, Nath 2019)

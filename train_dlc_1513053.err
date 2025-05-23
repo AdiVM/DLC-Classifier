@@ -1,0 +1,100 @@
+2025-05-18 18:06:22.747416: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-05-18 18:06:26.656074: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /n/app/python/3.9.14/lib:/n/app/python/3.9.14/lib:/n/app/cuda/11.2-gcc-9.2.0/lib64:/n/app/gcc/9.2.0/lib64:/n/app/gcc/9.2.0/lib
+2025-05-18 18:06:26.660484: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /n/app/python/3.9.14/lib:/n/app/python/3.9.14/lib:/n/app/cuda/11.2-gcc-9.2.0/lib64:/n/app/gcc/9.2.0/lib64:/n/app/gcc/9.2.0/lib
+2025-05-18 18:06:26.660508: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+/n/scratch/users/a/adm808/envs/DLC_venv_py39/lib/python3.9/site-packages/deeplabcut/__init__.py:81: UserWarning: 
+        As PyTorch is not installed, unsupervised identity learning will not be available.
+        Please run `pip install torch`, or ignore this warning.
+        
+  warnings.warn(
+Config:
+{'all_joints': [[0], [1], [2], [3], [4], [5], [6], [7]],
+ 'all_joints_names': ['Zone1',
+                      'Zone2',
+                      'Zone3',
+                      'Zone4',
+                      'Zone5',
+                      'Zone6',
+                      'Zone7',
+                      'Zone8'],
+ 'alpha_r': 0.02,
+ 'apply_prob': 0.5,
+ 'batch_size': 1,
+ 'contrast': {'clahe': True,
+              'claheratio': 0.1,
+              'histeq': True,
+              'histeqratio': 0.1},
+ 'convolution': {'edge': False,
+                 'emboss': {'alpha': [0.0, 1.0], 'strength': [0.5, 1.5]},
+                 'embossratio': 0.1,
+                 'sharpen': False,
+                 'sharpenratio': 0.3},
+ 'crop_pad': 0,
+ 'cropratio': 0.4,
+ 'dataset': 'training-datasets/iteration-0/UnaugmentedDataSet_ZoneDetection2Apr23/ZoneDetection2_adi95shuffle1.mat',
+ 'dataset_type': 'default',
+ 'decay_steps': 30000,
+ 'deterministic': False,
+ 'display_iters': 1000,
+ 'fg_fraction': 0.25,
+ 'global_scale': 0.8,
+ 'init_weights': '/n/scratch/users/a/adm808/envs/DLC_venv_py39/lib/python3.9/site-packages/deeplabcut/pose_estimation_tensorflow/models/pretrained/resnet_v1_50.ckpt',
+ 'intermediate_supervision': False,
+ 'intermediate_supervision_layer': 12,
+ 'location_refinement': True,
+ 'locref_huber_loss': True,
+ 'locref_loss_weight': 0.05,
+ 'locref_stdev': 7.2801,
+ 'log_dir': 'log',
+ 'lr_init': 0.0005,
+ 'max_input_size': 1500,
+ 'mean_pixel': [123.68, 116.779, 103.939],
+ 'metadataset': 'training-datasets/iteration-0/UnaugmentedDataSet_ZoneDetection2Apr23/Documentation_data-ZoneDetection2_95shuffle1.pickle',
+ 'min_input_size': 64,
+ 'mirror': False,
+ 'multi_stage': False,
+ 'multi_step': [[0.005, 10000],
+                [0.02, 430000],
+                [0.002, 730000],
+                [0.001, 1030000]],
+ 'net_type': 'resnet_50',
+ 'num_joints': 8,
+ 'optimizer': 'sgd',
+ 'pairwise_huber_loss': False,
+ 'pairwise_predict': False,
+ 'partaffinityfield_predict': False,
+ 'pos_dist_thresh': 17,
+ 'project_path': '/n/scratch/users/a/adm808/Sabatini_Lab/ZoneDetection2-adi-2025-04-23',
+ 'regularize': False,
+ 'rotation': 25,
+ 'rotratio': 0.4,
+ 'save_iters': 50000,
+ 'scale_jitter_lo': 0.5,
+ 'scale_jitter_up': 1.25,
+ 'scoremap_dir': 'test',
+ 'shuffle': True,
+ 'snapshot_prefix': '/n/scratch/users/a/adm808/Sabatini_Lab/ZoneDetection2-adi-2025-04-23/dlc-models/iteration-0/ZoneDetection2Apr23-trainset95shuffle1/train/snapshot',
+ 'stride': 8.0,
+ 'weigh_negatives': False,
+ 'weigh_only_present_joints': False,
+ 'weigh_part_predictions': False,
+ 'weight_decay': 0.0001}
+/n/scratch/users/a/adm808/envs/DLC_venv_py39/lib/python3.9/site-packages/tensorflow/python/keras/engine/base_layer_v1.py:1694: UserWarning: `layer.apply` is deprecated and will be removed in a future version. Please use `layer.__call__` method instead.
+  warnings.warn('`layer.apply` is deprecated and '
+2025-05-18 18:06:43.840436: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /n/scratch/users/a/adm808/envs/DLC_venv_py39/lib/python3.9/site-packages/cv2/../../lib64:/n/app/python/3.9.14/lib:/n/app/python/3.9.14/lib:/n/app/cuda/11.2-gcc-9.2.0/lib64:/n/app/gcc/9.2.0/lib64:/n/app/gcc/9.2.0/lib
+2025-05-18 18:06:43.840743: W tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:265] failed call to cuInit: UNKNOWN ERROR (303)
+2025-05-18 18:06:43.840781: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (compute-h-17-53.o2.rc.hms.harvard.edu): /proc/driver/nvidia/version does not exist
+2025-05-18 18:06:43.842215: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-05-18 18:06:46.483399: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:357] MLIR V1 optimization pass is not enabled
+2025-05-18 18:06:50.062016: W tensorflow/c/c_api.cc:291] Operation '{name:'pose/locref_pred/block4/biases/Momentum/Assign' id:6191 op device:{requested: '', assigned: ''} def:{{{node pose/locref_pred/block4/biases/Momentum/Assign}} = AssignVariableOp[_has_manual_control_dependencies=true, dtype=DT_FLOAT, validate_shape=false](pose/locref_pred/block4/biases/Momentum, pose/locref_pred/block4/biases/Momentum/Initializer/zeros)}}' was changed by setting attribute after it was run by a session. This mutation will have no effect, and will trigger an error in the future. Either don't modify nodes after running them or create a new session.
+iteration: 1000 loss: 0.0272 lr: 0.005
+iteration: 2000 loss: 0.0180 lr: 0.005
+iteration: 3000 loss: 0.0137 lr: 0.005
+iteration: 4000 loss: 0.0113 lr: 0.005
+iteration: 5000 loss: 0.0096 lr: 0.005
+iteration: 6000 loss: 0.0082 lr: 0.005
+iteration: 7000 loss: 0.0075 lr: 0.005
+iteration: 8000 loss: 0.0068 lr: 0.005
+slurmstepd: error: *** JOB 1513053 ON compute-h-17-53 CANCELLED AT 2025-05-19T06:06:21 DUE TO TIME LIMIT ***

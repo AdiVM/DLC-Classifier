@@ -3,7 +3,7 @@
 #SBATCH --output=trainset_job_%J.out
 #SBATCH --error=trainset_job_%J.err
 #SBATCH --nodes=1
-#SBATCH --time=12:00:00
+#SBATCH --time=06:00:00
 #SBATCH --partition=short
 #SBATCH --mem=128G
 

@@ -1,500 +1,500 @@
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240604/X1/VID_20150715_223102.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220118/NO_1/VID_20130227_192427.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230817/June_R/VID_20140926_230551.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230303/Dec_slice/VID_20140413_010026.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190625/Jan3_gray/O2 output/2011-04-20 00-11-25-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240612/X1/VID_20150723_194843.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240812/XB2/O2 output/2015-03-11 20-35-34-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231025/July_N/VID_20141204_210740.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231020/June_N/VID_20141129_210955.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220307/NO_1/VID_20130417_002917.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230717/July_L/2014-02-12 23-00-33-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230914/June_R/VID_20141024_202835.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200318/Nov_dark/O2 output/2020-03-18 13-29-03-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220606/dLight_171/VID_20130717_000244.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210623/Mar_5/2012-01-20 20-26-23-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201023/SC_1/2011-05-22 20-14-48-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230727/July_N/VID_20140905_233845.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210107/Oct_E/O2 output/2011-08-07 00-11-35-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210112/Oct_E/O2 output/2011-08-12 04-40-16-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201201/dLight_2/O2 output/2011-07-01 00-17-30-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230201/Dec_none/VID_20140313_235525.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200723/VF_1/2011-02-19 19-37-48-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200812/VF_1/O2 output/2011-03-11 21-46-22-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230816/June_R/VID_20140926_005944.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231009/July_N/VID_20141119_002236.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190726/Feb_2/2019-07-26 14-02-39-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200316/Nov_dark/O2 output/2020-03-16 16-05-01-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240530/X1/VID_20150710_184541.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230203/Dec_none/VID_20140315_230756.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220613/dLight_61/VID_20130723_230010.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201231/dLight_1/2011-07-30 20-57-49-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230213/Dec_left/O2 output/VID_20140325_231136.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230306/Dec_none/O2 output/20230306/VID_20140415_233621.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201207/Oct_E/2011-07-07 00-48-08-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220613/dLight_172/VID_20130723_180025.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210614/Mar_1/2012-01-11 23-56-27-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220524/dLight_182/VID_20130703_183232.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220224/NO_1/O2 output/20220224/VID_20130405_231954.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200317/Nov_stripe/2012-01-11 02-48-40-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200914/Jan_1/2011-04-13 21-34-11-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210629/Mar_4/2012-01-26 22-52-55-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230922/June_N/VID_20141101_234333.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220608/dLight_172/VID_20130718_171007.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220223/NO_2/VID_20130404_220042.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240705/VT2/2015-02-01 22-44-04-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220303/NO_1/O2 output/20220303/VID_20130413_015540.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190516/Feb_2/2019-05-16 15-45-36-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210628/Mar_5/2012-01-25 20-29-01-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201230/dLight_1/2011-07-30 03-28-09-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210519/Mar_3/O2 output/2011-12-16 17-30-22-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220214/NO_1/O2 output/20220214/VID_20130327_001723.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211111/DLS_1/2012-06-10 01-11-18-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191028/April_white/O2 output/2019-10-28 15-21-09-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220512/dLight_172/VID_20130621_184934.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240625/X5/VID_20150805_215726.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210520/Mar_4/O2 output/2011-12-17 23-43-43-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240523/X1/VID_20150703_214621.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220509/dLight_172/VID_20130618_201610.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230210/Dec_none/VID_20140322_224710.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220503/dLight_62/O2 output/VID_20130612_182749.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240625/X1/O2 output/VID_20150805_213812.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201211/Oct_E/O2 output/2011-07-10 23-11-34-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240826/X1/2015-03-25 19-42-34-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240529/X1/VID_20150709_181955.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200909/VF_1/2011-04-08 22-38-45-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231011/July_N/VID_20141120_190256.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190624/Feb_2/O2 output/2019-06-24 15-27-43-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220124/NO_1/O2 output/20220124/VID_20130306_001339.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201111/dLight_4/2011-06-10 18-24-11-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190710/March_D/O2 output/2011-05-05 03-53-10-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201202/dLight_3/O2 output/2011-07-02 02-20-23-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211213/DLS_3/VID_20130122_204716.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240827/XB2/O2 output/2015-03-26 19-37-26-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220616/dLight_62/VID_20130726_164052.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210617/Mar_2/O2 output/2012-01-14 17-41-38-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210212/Oct_A/2011-09-11 22-20-08-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191021/April_short/O2 output/2011-08-16 01-16-21-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240610/X4/VID_20150721_183645.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230313/Nov_test/2013-10-09 22-47-19-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230111/Nov_test/VID_20140220_204717.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231027/June_R/VID_20141206_215358.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230831/July_L/2014-03-29 19-15-16-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200217/Dec_d/2020-02-17 13-59-51-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190924/April_white/2019-09-24 14-57-40-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240620/X1/VID_20150731_230821.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190925/April_long/O2 output/2011-07-20 23-55-32-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220509/dLight_62/O2 output/VID_20130618_181057.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220524/dLight_172/VID_20130703_171815.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241030/XD2/2015-05-29 18-18-02-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211213/DLS_1/VID_20130122_194225.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220505/dLight_152/VID_20130614_151831.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201209/Oct_A/2011-07-08 21-57-23-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200109/Oct_3/O2 output/2020-01-09 16-09-28-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190730/March_D/O2 output/2011-05-25 03-01-26-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220524/dLight_153/VID_20130704_005024.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230123/Dec_slice/VID_20140305_013259.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220502/dLight_171/VID_20130611_191314.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220602/dLight_172/VID_20130712_191835.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230922/June_R/VID_20141102_004905.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240618/X1/O2 output/VID_20150729_174008.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201228/Oct_B/O2 output/2011-07-27 22-24-53-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230918/June_N/VID_20141028_225744.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230316/Dec_slice/VID_20140425_204440.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240607/X4/VID_20150718_225447.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210125/Oct_C/2011-08-24 22-49-06-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220614/dLight_153/VID_20130724_232048.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211214/DLS_1/VID_20130123_194036.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210507/Mar_4/O2 output/2011-12-04 23-36-58-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200302/Oct_0/2011-12-26 23-33-28-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240524/X2/VID_20150704_224303.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220216/NO_1/VID_20130328_234649.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220207/NO_2/VID_20130319_204209.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200204/Oct_0/2011-11-30 00-19-09-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230922/June_R/VID_20141102_011909.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191112/April_short/2011-09-07 00-16-27-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240703/X2/VID_20150813_195744.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200306/Oct_0/O2 output/2011-12-31 01-32-40-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190705/Jan3_gray/O2 output/2011-04-30 01-48-44-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200827/VF_1/2011-03-27 00-59-43-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220511/dLight_171/VID_20130620_212249.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220215/NO_2/VID_20130327_220541.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200918/#87/2011-04-17 20-27-31-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240722/XB2/VID_20150901_213118.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230222/Dec_none/VID_20140404_005140.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210220/Oct_D/2011-09-20 04-17-47-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200714/Fmus_1/2011-02-10 21-00-31-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200317/VF_1/2012-01-11 01-21-27-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201214/Oct_D/2011-07-14 03-41-04-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211129/DLS_3/O2 output/2012-06-27 22-40-53-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231005/June_N/VID_20141114_194522.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230124/Dec_slice/O2 output/20230124/VID_20140306_005018.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191209/April_short/O2 output/2011-10-04 01-35-15-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191031/April_short/2011-08-26 03-00-48-C.AVI
 /n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210701/Mar_4/2012-01-29 00-55-21-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230306/Dec_none/O2 output/20230306/VID_20140415_233120.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230227/Nov_grey/O2 output/2013-09-25 23-28-06-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241015/XE/2015-05-14 16-59-16-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231024/June_R/VID_20141203_211408.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240617/X4/VID_20150728_180606.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220526/dLight_172/VID_20130705_202558.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240808/XB2/O2 output/2015-03-07 18-08-41-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220615/dLight_153/O2 output/VID_20130725_231754.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220525/dLight_61/O2 output/20220525_d61/VID_20130704_202731.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210125/Oct_D/2011-08-25 00-17-45-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200305/Nov_dark/2020-03-05 16-11-45-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240625/XB2/VID_20150806_000938.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220429/dLight_152/VID_20130608_164040.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191213/Oct_0/2011-10-07 23-59-29-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230324/Dec_slice/VID_20140503_211903.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201030/SC_1/O2 output/2011-05-29 21-35-45-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230130/Dec_left/VID_20140311_223555.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200130/Nov_dark/2020-01-30 16-20-50-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230207/Dec_none/VID_20140319_220858.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230816/July_L/2014-03-14 23-30-33-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210114/Oct_C/O2 output/2011-08-14 02-51-30-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210122/Oct_E/2011-08-22 00-44-15-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220525/dLight_181/VID_20130704_191825.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240703/VT2/O2 output/2015-01-30 18-42-01-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220527/dLight_61/O2 output/20220527_d61/VID_20130706_214904.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230214/Dec_left/VID_20140327_010228.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210521/Mar_3/2011-12-18 19-41-43-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220516/dLight_181/VID_20130625_194741.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190626/Feb_1/2019-06-26 12-49-13-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220203/NO_1/O2 output/20220203/VID_20130315_234803.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230324/Dec_left/VID_20140503_222200.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230901/July_R/2014-03-30 22-06-47-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20221216/Nov_test/O2 output/20221216/VID_20140126_001645.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230303/Dec_slice/VID_20140413_005024.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220502/dLight_152/VID_20130611_160515.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230908/June_N/VID_20141018_224944.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200622/Oct_0/2011-01-19 20-57-45-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240703/X1/VID_20150813_211219.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240614/X4/VID_20150725_233907.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191021/April_white/2019-10-21 15-06-23-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220202/NO_2/O2 output/20220202/VID_20130314_220646.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240620/X5/VID_20150731_203449.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210510/Mar_6/2011-12-07 19-24-49-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200925/July_3/2011-04-24 23-17-49-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200311/Dec_d/O2 output/2020-03-11 18-35-05-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200914/VF_1/O2 output/2011-04-13 18-35-24-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201215/Oct_A/O2 output/2011-07-14 21-42-17-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211210/DLS_2/VID_20130119_203518.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201208/Oct_E/2011-07-08 01-01-32-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200619/Nov_stripe/2011-01-16 21-51-50-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211207/DLS_3/O2 output/2012-07-06 00-10-20-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191010/April_long/2011-08-05 01-20-30-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240715/X2/VID_20150825_235618.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210526/Mar_4/O2 output/2011-12-23 21-53-14-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240611/VT4/O2 output/2015-01-08 18-15-46-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211115/DLS_3/O2 output/2012-06-13 22-33-36-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240823/X4/2015-03-22 18-37-12-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230209/Dec_left/VID_20140322_002213.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240722/X4/VID_20150902_000101.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240731/X4/2015-02-27 17-57-54-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240627/XB2/VID_20150807_232717.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240913/XA2/20240912224138_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220223/NO_1/O2 output/20220223/VID_20130404_225820.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220511/dLight_152/VID_20130620_160530.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201112/#87/2011-06-11 20-52-08-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231010/June_R/VID_20141119_230331.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190606/Feb_3/2019-06-06 15-53-33-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201210/Sep_2/2011-07-10 03-26-10-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210127/Oct_E/2011-08-27 00-33-19-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201229/Oct_D/O2 output/2011-07-29 01-25-34-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231011/July_N/VID_20141120_182750.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201216/Oct_E/O2 output/2011-07-15 23-59-14-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210115/Oct_A/O2 output/2011-08-14 23-13-44-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201215/Oct_D/2011-07-15 01-12-27-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210615/Mar_3/2012-01-12 18-04-56-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220315/NO_1/O2 output/20220315/VID_20130424_213623.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220511/dLight_172/VID_20130620_183235.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220425/dLight_152/VID_20130604_230639.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210113/Sep_2/2011-08-13 05-04-35-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190809/March_D/2011-06-04 00-41-02-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20250317/HF/20250317031302_000004.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201111/dLight_4/2011-06-10 18-53-59-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240926/XB1/O2 output/20240926022832_000002.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220613/dLight_171/VID_20130724_000341.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220228/NO_1/O2 output/20220228/VID_20130410_003220.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191001/April_white/O2 output/2019-10-01 14-07-56-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240607/VT2/2015-01-04 17-58-02-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240814/XA2/O2 output/20240814013337_000002.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220615/dLight_182/VID_20130725_211613.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210128/Sep_2/O2 output/2011-08-28 03-27-55-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220201/NO_2/VID_20130313_221750.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210104/dLight_2/O2 output/2011-08-04 02-26-05-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201208/Oct_A/O2 output/2011-07-07 22-05-19-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201109/dLight_4/O2 output/2011-06-08 19-37-29-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220118/NO_1/VID_20130227_193429.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230403/Dec_slice/VID_20140513_221150.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210525/Mar_5/2011-12-22 16-23-03-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220512/dLight_62/O2 output/VID_20130621_174330.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190627/March_C/2011-04-22 02-21-53-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240807/XB1/20240806225640_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240524/X1/VID_20150704_204206.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200312/Nov_stripe/2012-01-06 02-46-05-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240522/X5/VID_20150702_191912.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220516/dLight_153/VID_20130625_230231.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201231/Sep_2/2011-07-31 03-24-56-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230327/Dec_left/VID_20140506_222453.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210105/Oct_D/2011-08-05 01-11-43-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201118/dLight_4/O2 output/2011-06-18 01-37-40-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210609/Mar_4/O2 output/2012-01-06 21-36-13-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230203/Dec_left/VID_20140316_010310.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240611/X1/VID_20150722_181220.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210205/Oct_C/O2 output/2011-09-04 22-22-20-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220303/NO_2/VID_20130412_231129.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200109/Oct_3/2020-01-09 16-09-28-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210630/Mar_5/O2 output/2012-01-27 19-11-50-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201203/dLight_2/2011-07-03 01-42-42-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230216/Dec_left/VID_20140328_215548.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220126/NO_2/VID_20130307_202856.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220606/dLight_181/VID_20130716_214932.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220503/dLight_181/VID_20130612_200636.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230125/Nov_test/O2 output/2013-08-24 00-05-01-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230221/Nov_test/2013-09-19 23-43-51-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210429/Mar_1/2011-11-26 20-44-59-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220115/NO_2/VID_20130224_223638.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220210/NO_1/VID_20130323_000136.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230908/June_R/VID_20141018_234144.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220131/NO_2/VID_20130312_230628.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200629/Nov_dark/2011-01-26 20-15-48-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220222/NO_2/VID_20130403_181125.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230403/Dec_left/VID_20140513_211400.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211119/DLS_3/O2 output/2012-06-18 04-29-40-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210120/Sep_3/2011-08-20 06-50-06-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210503/Mar_5/O2 output/2011-11-30 19-55-55-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220308/NO_2/O2 output/20220308/VID_20130417_225315.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190709/March_C/2011-05-04 03-18-47-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191218/April_white/O2 output/2019-12-18 14-07-48-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220509/dLight_152/O2 output/VID_20130618_171122.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201130/dLight_4/2011-06-29 21-15-49-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191002/April_white/O2 output/2019-10-02 13-31-02-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220610/dLight_171/VID_20130720_215452.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220125/NO_2/O2 output/20220125/VID_20130306_220505.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240906/XB1/20240905231706_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201203/Oct_B/O2 output/2011-07-03 01-43-10-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220512/dLight_62/VID_20130621_173329.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200909/VF_1/2011-04-08 23-08-33-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240617/VT4/O2 output/2015-01-14 17-05-35-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220429/dLight_181/VID_20130608_221752.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210702/Mar_3/2012-01-29 21-27-07-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230307/Dec_slice/VID_20140416_222005.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220511/dLight_62/VID_20130620_170522.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230727/June_R/VID_20140905_220748.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240701/VT2/O2 output/2015-01-28 16-19-11-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200922/SC_1/2011-04-21 23-11-31-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200225/Oct_0/O2 output/2011-12-21 00-40-35-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220608/dLight_153/VID_20130718_213339.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220525/dLight_181/VID_20130704_190323.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220503/dLight_61/O2 output/20220503_d61/VID_20130612_215657.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240816/XB2/2015-03-15 21-22-19-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210517/Mar_4/2011-12-14 22-44-10-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220310/NO_1/O2 output/VID_20130419_233811.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220427/dLight_152/VID_20130606_184043.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230913/July_N/VID_20141023_225805.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230124/Dec_slice/O2 output/20230124/VID_20140306_012023.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210113/Oct_D/2011-08-13 04-05-58-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201028/Jan_1/2011-05-28 00-33-36-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201229/dLight_3/O2 output/2011-07-29 02-20-37-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190806/March_C/O2 output/2011-06-01 00-55-54-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210119/dLight_2/2011-08-18 23-59-15-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241105/XB1/20241104232132_000002.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230210/Dec_slice/VID_20140323_002434.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240606/X2/VID_20150717_225305.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220602/dLight_181/VID_20130712_200147.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240904/XB1/20240903234322_000002.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241003/XB1/20241002220435_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200317/VF_1/2012-01-11 01-21-27-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220516/dLight_62/VID_20130625_172108.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230202/Dec_slice/VID_20140314_195843.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231010/June_R/VID_20141119_231333.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220308/NO_2/O2 output/20220308/VID_20130417_230316.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200117/Nov_2/2020-01-17 14-32-58-C.AVI
 /n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200203/Nov_ON/2020-02-03 16-03-37-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220214/NO_2/O2 output/20220214/VID_20130326_231755.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231002/July_L/2014-04-30 22-47-02-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230913/June_N/VID_20141023_203341.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220125/NO_2/O2 output/20220125/VID_20130306_213500.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210616/Mar_3/O2 output/2012-01-13 20-08-56-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230817/July_R/2014-03-15 19-43-45-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191030/April_white/O2 output/2019-10-30 15-26-28-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220502/dLight_182/VID_20130611_235036.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210611/Mar_2/2012-01-08 19-05-18-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190703/Jan3_gray/O2 output/2011-04-27 23-06-57-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210521/Mar_3/2011-12-18 19-41-43-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230201/Dec_left/VID_20140313_224453.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230222/Nov_grey/O2 output/2013-09-20 23-52-36-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230224/Nov_grey/O2 output/2013-09-23 00-05-18-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230125/Dec_left/VID_20140306_234931.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220512/dLight_61/VID_20130621_230413.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211210/DLS_3/O2 output/20211210/VID_20130119_220105.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190930/April_white/2019-09-30 17-28-04-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231026/June_N/VID_20141205_174706.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231008/July_N/VID_20141117_205540.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200226/Nov_2/O2 output/2020-02-26 16-05-16-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230328/Dec_left/VID_20140507_220350.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190528/3F_white/2011-03-23 00-56-03-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230208/Dec_left/VID_20140320_230813.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200304/Oct_0/2011-12-29 00-18-55-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220524/dLight_172/VID_20130703_170814.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201106/Sep_3/O2 output/2011-06-06 04-10-59-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240621/X2/VID_20150801_193318.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240902/VT5/20240902001028_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230120/Nov_grey/O2 output/VID_20140301_231621.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230328/Dec_slice/VID_20140507_210006.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230901/June_N/VID_20141011_205506.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201009/July_3/2011-05-08 22-09-57-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230209/Dec_slice/VID_20140321_223019.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201228/Oct_C/2011-07-28 04-08-59-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230211/Nov_grey/O2 output/2013-09-09 23-45-00-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220525/dLight_62/O2 output/20220525/VID_20130704_172012.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220119/NO_1/O2 output/20220119/VID_20130228_212003.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220315/NO_2/VID_20130424_202052.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240529/X2/VID_20150709_211657.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230213/Dec_none/O2 output/20230213/VID_20140326_001455.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230914/June_N/VID_20141024_212201.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200701/Oct_0/2011-01-28 21-51-19-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220520/dLight_61/VID_20130629_195125.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201014/July_3/O2 output/2011-05-13 23-17-20-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220509/dLight_182/VID_20130618_230732.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191217/April_white/O2 output/2019-12-17 15-06-44-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220421/dLight_152/VID_20130531_204533.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240530/X1/VID_20150710_184041.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220525/dLight_172/VID_20130704_182611.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200313/Nov_dark/2020-03-13 14-22-32-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191217/Oct_0/2011-10-12 01-49-47-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220526/dLight_61/VID_20130705_221628.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231020/July_B/2014-05-18 21-27-49-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191104/April_short/O2 output/2011-08-30 04-25-37-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230329/Dec_left/VID_20140508_205808.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230830/July_L/2014-03-28 19-12-49-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220614/dLight_171/VID_20130724_222420.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210203/Oct_D/2011-09-03 00-46-50-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210115/Sep_2/O2 output/2011-08-15 04-19-40-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210722/Mar_2/O2 output/2012-02-18 17-58-48-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220519/dLight_181/O2 output/VID_20130628_191929.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201105/SC_1/O2 output/2011-06-04 21-18-46-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231027/June_R/VID_20141206_215358.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220115/NO_2/O2 output/20220115/VID_20130224_224252.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200303/Nov_dark/O2 output/2020-03-03 14-54-04-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230111/Nov_test/O2 output/20230111/VID_20140220_205218.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220307/NO_1/O2 output/20220307/VID_20130417_004920.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220309/NO_1/VID_20130418_234548.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210217/Oct_E/O2 output/2011-09-16 22-23-55-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190726/March_A/2011-05-21 00-11-46-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200708/Nov_dark/2011-02-04 18-37-40-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20250212/HF/20250212030817_000002.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220125/NO_2/VID_20130306_215503.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220526/dLight_152/VID_20130705_161544.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220209/NO_2/O2 output/VID_20130321_232908.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220209/NO_2/VID_20130321_231906.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230728/July_B/2014-02-23 19-18-57-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210205/Oct_C/2011-09-04 22-22-20-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230223/Dec_left/VID_20140404_233920.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240920/XA2/20240920024922_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240603/X4/VID_20150714_170354.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220131/NO_2/VID_20130312_222021.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210427/Mar_5/O2 output/2011-11-24 18-08-22-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190815/Feb_3/2019-08-15 14-03-05-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230801/June_R/VID_20140910_234537.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240614/X2/VID_20150725_225217.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220527/dLight_61/VID_20130706_212901.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210212/Oct_B/O2 output/2011-09-11 20-29-16-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220504/dLight_182/VID_20130613_231416.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230327/Dec_slice/VID_20140506_232316.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230414/Dec_slice/VID_20140524_204328.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190917/May/O2 output/2019-09-17 14-11-21-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20250429/DA/20250428231217_000004.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240627/X1/VID_20150807_212044.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230202/Dec_none/VID_20140314_232601.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190702/Feb_3/O2 output/2019-07-02 13-10-55-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220308/NO_2/O2 output/20220308/VID_20130417_225815.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230811/July_B/2014-03-10 00-16-21-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210603/Mar_4/2011-12-31 23-16-26-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230830/July_N/VID_20141009_210345.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190523/Feb_2/2019-05-23 13-47-00-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220303/NO_2/O2 output/20220303/VID_20130412_231129.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240625/X1/VID_20150805_205805.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220517/dLight_153/VID_20130626_210704.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230210/Nov_test/O2 output/2013-09-08 23-21-47-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210615/Mar_1/O2 output/2012-01-12 21-32-58-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240731/X1/O2 output/2015-02-27 16-46-11-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190627/March_C/O2 output/2011-04-22 02-51-41-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240524/X1/VID_20150704_203204.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190709/March_B/2011-05-04 00-03-36-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230209/Dec_slice/VID_20140321_223520.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230127/Dec_slice/VID_20140308_221457.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231017/June_N/VID_20141126_193007.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240624/VT2/O2 output/2015-01-21 22-14-02-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191206/Oct_0/2011-10-01 00-06-49-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230926/June_N/VID_20141105_184400.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200806/Fmus_1/O2 output/2011-03-06 00-38-48-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241008/XB1/20241008003921_000002.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220425/dLight_171/O2 output/VID_20130604_184928.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220613/dLight_61/O2 output/20220613/VID_20130723_230010.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230913/July_R/2014-04-11 23-21-12-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191112/April_short/O2 output/2011-09-07 00-16-27-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231010/June_N/VID_20141119_221030.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220512/dLight_182/VID_20130621_221035.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210114/Oct_B/2011-08-14 00-11-16-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230227/Dec_slice/VID_20140409_002340.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220222/NO_2/VID_20130403_182126.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220614/dLight_182/VID_20130724_193429.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210517/Mar_5/O2 output/2011-12-14 18-13-07-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230127/Dec_none/VID_20140308_224623.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230109/Nov_test/O2 output/20230109/VID_20140218_225830.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220307/NO_2/VID_20130416_215717.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200214/Nov_2/O2 output/2020-02-14 17-52-21-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230207/Dec_slice/O2 output/VID_20140319_235015.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230320/Dec_left/VID_20140429_220306.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200622/Dec_d/2011-01-19 19-18-39-C.AVI
 /n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220502/dLight_172/VID_20130611_212658.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230112/Nov_test/O2 output/20230112/VID_20140221_231214.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230109/Nov_test/O2 output/20230109/VID_20140218_230832.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240515/X5/VID_20150625_212556.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210217/Sep_3/2011-09-17 05-59-23-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200221/Oct_0/O2 output/2011-12-17 00-51-49-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231003/June_R/VID_20141112_213928.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190712/Feb_2/2019-07-12 14-27-20-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210115/Oct_B/O2 output/2011-08-14 21-48-38-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220421/dLight_172/VID_20130531_184640.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201008/#87/O2 output/2011-05-08 01-51-17-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20250320/HF/20250319232045_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220502/dLight_153/VID_20130611_182835.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240614/VT2/2015-01-11 18-59-50-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191004/April_short/2011-07-30 02-07-04-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190709/Feb_2/O2 output/2019-07-09 12-55-11-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220519/dLight_182/VID_20130628_211203.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230215/Dec_left/O2 output/VID_20140327_194950.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220613/dLight_61/VID_20130723_230010.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230324/Dec_left/VID_20140503_215155.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20250425/DA/20250425033058_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220425/dLight_172/O2 output/VID_20130604_212843.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210604/Mar_1/O2 output/2012-01-02 01-47-24-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231026/July_N/VID_20141205_195401.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220209/NO_1/VID_20130321_235612.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201207/Sep_2/O2 output/2011-07-07 05-05-31-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230724/June_N/VID_20140902_220202.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230901/July_N/VID_20141011_220306.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220518/dLight_62/VID_20130627_171410.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230222/Dec_slice/VID_20140403_230728.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230830/July_L/2014-03-28 19-42-37-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210202/Oct_C/O2 output/2011-09-01 23-54-09-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201117/Sep_2/O2 output/2011-06-17 00-20-58-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230316/Dec_slice/VID_20140425_210444.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211213/DLS_3/O2 output/20211213/VID_20130122_210720.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210727/Mar_2/2012-02-23 19-38-14-C.AVI
 /n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220121/NO_1/VID_20130302_215140.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200110/Nov_ON/2020-01-10 17-33-45-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230721/July_R/2014-02-16 22-18-05-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220526/dLight_181/VID_20130705_193452.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200617/Nov_ON/2011-01-14 19-27-27-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201204/dLight_1/2011-07-04 00-02-40-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220516/dLight_172/O2 output/20220516/VID_20130625_191643.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240620/X1/VID_20150731_225318.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230322/Dec_slice/VID_20140501_212034.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240703/X1/O2 output/VID_20150813_220101.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201023/VF_1/2011-05-23 00-32-11-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201210/Oct_C/O2 output/2011-07-10 02-55-49-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220207/NO_2/O2 output/20220207/VID_20130319_212716.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231025/July_R/2014-05-23 21-24-19-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220223/NO_1/VID_20130404_231823.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190916/May/2019-09-16 15-19-59-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220225/NO_1/VID_20130406_225935.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230404/Dec_slice/VID_20140514_212932.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210702/Mar_1/2012-01-29 23-07-42-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201216/dLight_3/O2 output/2011-07-15 19-29-08-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240619/X2/VID_20150730_215716.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201105/#87/2011-06-04 23-06-56-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230228/Dec_left/VID_20140410_000346.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20221216/Nov_test/O2 output/20221216/VID_20140126_000644.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240906/XB2/O2 output/2015-04-05 19-40-45-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201203/dLight_1/2011-07-03 00-48-04-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200710/Fmus_1/2011-02-06 20-49-09-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200219/Nov_2/2020-02-19 16-52-27-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220124/NO_2/VID_20130305_210208.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240515/X5/VID_20150625_205051.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240617/X1/VID_20150728_232019.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220502/dLight_172/VID_20130611_212158.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190612/Feb_2/O2 output/2019-06-12 21-00-21-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191211/April_short/2011-10-06 00-06-52-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220308/NO_2/O2 output/VID_20130417_233453.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200914/VF_1/2011-04-13 18-35-24-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231010/July_N/VID_20141120_002616.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210519/Mar_5/2011-12-16 17-02-00-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220601/dLight_62/O2 output/VID_20130711_172207.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211210/DLS_2/O2 output/20211210/VID_20130119_203518.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230921/July_B/2014-04-19 23-19-36-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190912/May/2019-09-12 15-01-42-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201228/Oct_C/O2 output/2011-07-28 04-38-47-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230914/June_N/VID_20141024_213703.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210624/Mar_5/O2 output/2012-01-21 17-21-24-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231027/June_N/VID_20141206_192415.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230125/Dec_left/O2 output/VID_20140306_234931.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210211/Sep_2/2011-09-11 03-50-43-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200303/Oct_3/O2 output/2020-03-03 12-57-26-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200210/Oct_3/2020-02-10 15-30-09-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190611/3F_white/2011-04-06 00-22-02-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220209/NO_2/O2 output/20220209/VID_20130321_225325.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220607/dLight_61/O2 output/20220607_d61/VID_20130717_203853.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230117/Nov_test/VID_20140226_220631.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240618/X5/VID_20150729_181043.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220203/NO_1/O2 output/VID_20130316_001808.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220601/dLight_171/VID_20130711_210646.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230209/Dec_slice/VID_20140321_224146.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190624/Feb_2/2019-06-24 15-27-43-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210611/Mar_5/O2 output/2012-01-08 22-15-55-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220302/NO_1/O2 output/20220302/VID_20130411_234210.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20221212/Nov_test/VID_20140122_010939.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210422/Mar_1/2011-11-19 23-21-43-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230927/July_R/2014-04-26 00-20-07-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230926/June_N/VID_20141105_181356.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220207/NO_2/O2 output/20220207/VID_20130319_212215.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230222/Nov_grey/2013-09-21 00-22-23-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230203/Dec_slice/VID_20140316_002045.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201022/July_3/O2 output/2011-05-21 21-01-04-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200925/July_2/2011-04-24 21-42-07-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220526/dLight_62/VID_20130705_171102.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230831/July_N/VID_20141010_231110.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200618/Nov_2/2011-01-15 18-49-45-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220502/dLight_171/O2 output/20220502/VID_20130611_191814.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201027/VF_1/2011-05-27 01-12-25-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220513/dLight_181/VID_20130622_192125.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230927/July_N/VID_20141106_231157.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220426/dLight_62/VID_20130605_213313.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230117/Nov_test/VID_20140226_213126.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220516/dLight_152/VID_20130625_162221.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201228/Oct_C/2011-07-28 04-38-47-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230925/July_R/2014-04-23 22-41-25-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230316/Dec_slice/O2 output/VID_20140425_211946.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210521/Mar_2/2011-12-18 18-42-38-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241016/XD2/2015-05-15 17-27-59-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210118/Oct_C/O2 output/2011-08-18 00-16-04-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211214/DLS_2/O2 output/20211214/VID_20130123_203828.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240701/X1/VID_20150811_172609.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220518/dLight_153/VID_20130627_231917.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230801/July_R/2014-02-27 21-37-17-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231003/July_B/2014-05-02 00-39-03-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191210/April_white/O2 output/2019-12-10 16-02-26-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211202/DLS_1/O2 output/2012-07-01 00-08-09-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230213/Dec_none/O2 output/20230213/VID_20140325_233950.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200213/Nov_dark/2020-02-13 16-09-36-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210118/Oct_E/2011-08-17 23-44-31-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201209/Oct_E/O2 output/2011-07-09 02-25-55-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240723/XB2/VID_20150902_180901.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240906/X1/2015-04-05 18-13-37-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230320/Dec_slice/VID_20140429_210157.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230314/Dec_none/VID_20140423_211532.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241101/XB1/20241031235347_000001.TS
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220602/dLight_171/O2 output/20220602/VID_20130712_213955.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220216/NO_1/O2 output/20220216/VID_20130328_233147.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190702/Feb_1/2019-07-02 14-39-07-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230728/June_N/VID_20140906_192031.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230127/Dec_left/VID_20140309_000040.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220517/dLight_153/VID_20130626_213208.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230831/June_N/VID_20141010_184430.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200204/Nov_2/2020-02-04 16-10-49-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210112/Oct_E/O2 output/2011-08-12 05-10-03-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210423/Mar_4/2011-11-20 20-30-52-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240807/XA2/20240805014743_000001.TS
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220427/dLight_152/VID_20130606_183542.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200120/Oct_0/2011-11-15 00-46-45-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230411/Dec_slice/VID_20140521_214534.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240902/XB1/20240901221210_000001.TS
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240913/X4/2015-04-12 18-56-48-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230303/Dec_left/VID_20140413_001309.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230803/June_N/VID_20140912_224318.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200210/Nov_dark/2020-02-10 14-26-09-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210630/Mar_4/O2 output/2012-01-27 22-21-00-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220609/dLight_171/VID_20130720_010724.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240830/X4/2015-03-29 18-08-32-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210114/Oct_B/2011-08-13 23-41-28-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230228/Dec_none/O2 output/VID_20140410_021100.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201222/dLight_4/O2 output/2011-07-21 22-38-40-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220503/dLight_61/VID_20130612_215156.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200220/Nov_2/O2 output/2020-02-20 12-57-47-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201211/Sep_2/O2 output/2011-07-11 03-45-16-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200313/Oct_0/O2 output/2012-01-06 23-44-30-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220223/NO_1/O2 output/20220223/VID_20130404_231322.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200213/Dec_d/O2 output/2020-02-13 17-36-32-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240606/VT4/O2 output/2015-01-03 18-28-57-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220512/dLight_61/VID_20130621_231916.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211214/DLS_3/VID_20130123_172957.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210209/Sep_3/O2 output/2011-09-09 03-07-59-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190926/April_white/2019-09-26 15-41-46-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211111/DLS_1/O2 output/2012-06-10 01-11-18-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230814/July_N/VID_20140924_010238.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220210/NO_2/O2 output/VID_20130322_222404.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231026/July_B/2014-05-24 18-18-35-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240606/X4/VID_20150717_183758.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220425/dLight_152/VID_20130604_222305.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241008/XE/xe 2015-05-07 17-24-10-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200316/Oct_0/O2 output/2012-01-10 00-47-03-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231023/July_N/VID_20141202_214438.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230413/Dec_slice/VID_20140523_210931.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220121/NO_1/O2 output/20220121/VID_20130302_223647.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231017/June_R/VID_20141126_231808.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240919/XA1/20240918235939_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190625/Jan3_gray/O2 output/2011-04-19 23-41-37-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230105/Nov_grey/VID_20140215_005313.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201106/July_3/O2 output/2011-06-05 17-44-57-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201005/SC_1/O2 output/2011-05-04 20-14-08-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230922/July_B/2014-04-21 02-44-14-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220429/dLight_153/VID_20130608_192256.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220425/dLight_153/O2 output/VID_20130605_001626.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220511/dLight_171/VID_20130620_213751.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200113/April_white/2020-01-13 16-17-38-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211123/DLS_2/2012-06-22 00-02-27-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201026/SC_1/O2 output/2011-05-25 22-03-41-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200109/Nov_2/Nov_2_don't_analyze/2020-01-09 17-06-12-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200313/Dec_d/2020-03-13 16-39-57-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220503/dLight_153/VID_20130612_161353.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230919/June_N/VID_20141029_232404.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240612/X4/VID_20150723_232423.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240702/VT4/2015-01-29 21-06-33-C.AVI
 /n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220527/dLight_181/VID_20130706_185156.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211115/DLS_2/O2 output/2012-06-13 21-35-43-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211210/DLS_3/O2 output/20211210/VID_20130119_221607.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240530/X5/VID_20150710_203144.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230831/July_N/VID_20141010_232612.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230913/June_R/VID_20141023_210434.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230131/Dec_left/VID_20140313_002031.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200916/#87/2011-04-15 19-25-51-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220224/NO_2/VID_20130405_215546.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220602/dLight_181/VID_20130712_195647.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210506/Mar_4/2011-12-03 21-32-24-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201104/SC_1/O2 output/2011-06-03 19-11-28-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240624/X2/VID_20150804_213458.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201001/VF_1/2011-04-30 20-22-25-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201130/dLight_2/2011-06-30 01-53-49-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220224/NO_2/VID_20130405_221549.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241111/XD1/2015-06-10 17-30-09-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220516/dLight_152/VID_20130625_164725.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220610/dLight_171/VID_20130720_214951.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230109/Nov_grey/VID_20140218_234318.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200807/VF_1/2011-03-07 00-26-15-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190730/Feb_2/2019-07-30 15-57-51-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230413/Dec_slice/O2 output/VID_20140523_214937.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190606/Feb_2/O2 output/2019-06-06 14-18-07-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230804/July_N/VID_20140913_221549.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240603/X1/VID_20150714_203422.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200122/April_white/O2 output/2020-01-22 15-27-55-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201217/dLight_2/2011-07-17 03-47-14-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220516/dLight_181/VID_20130625_200243.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201214/dLight_4/2011-07-14 00-13-23-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201229/Sep_3/O2 output/2011-07-29 05-43-38-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220201/NO_1/VID_20130313_234810.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210608/Mar_2/2012-01-05 20-45-32-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220606/dLight_153/VID_20130716_202242.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201209/July_3/O2 output/2011-07-08 19-43-43-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230111/Nov_test/O2 output/20230111/VID_20140220_204216.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210506/Mar_5/O2 output/2011-12-03 16-47-46-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200702/Nov_dark/2011-01-29 19-40-37-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220117/NO_2/VID_20130226_213045.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201113/VF_1/2011-06-12 23-22-48-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220516/dLight_61/VID_20130626_002259.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220114/NO_2/VID_20130224_023137.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201229/Oct_E/2011-07-29 01-53-39-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240703/X2/VID_20150813_202749.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211130/DLS_3/2012-06-29 02-29-03-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201029/July_3/O2 output/2011-05-28 19-40-15-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230125/Nov_test/2013-08-23 23-35-13-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230323/Dec_left/VID_20140502_211453.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20250307/HF/20250307012418_000006.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230303/Dec_left/VID_20140412_235807.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230109/Nov_test/VID_20140218_223827.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230117/Nov_test/O2 output/VID_20140226_221633.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230110/Nov_grey/VID_20140219_215353.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231017/June_R/VID_20141126_232309.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201223/dLight_3/O2 output/2011-07-23 01-00-23-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220517/dLight_61/VID_20130626_215903.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200213/Oct_0/O2 output/2011-12-09 00-17-18-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230807/June_R/VID_20140916_215557.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230228/Dec_left/VID_20140410_003351.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190529/Feb_2/2019-05-29 15-06-59-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201116/#87/O2 output/2011-06-16 05-37-00-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200921/Jan_1/O2 output/2011-04-20 21-58-12-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211119/DLS_2/2012-06-18 03-59-40-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230908/June_R/VID_20141018_234645.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210512/Mar_2/O2 output/2011-12-09 14-13-12-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230127/Dec_none/VID_20140308_225624.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210503/Mar_4/O2 output/2011-11-30 22-18-15-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200225/Nov_ON/O2 output/2020-02-25 13-17-26-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240813/XA2/20240812220027_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200720/Oct_0/2011-02-16 21-13-51-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230322/Dec_left/VID_20140501_224339.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220524/dLight_182/VID_20130703_181730.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190916/April_white/2019-09-16 14-25-46-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210201/Sep_3/O2 output/2011-09-01 04-14-16-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230201/Dec_slice/VID_20140314_004225.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211209/test/20min_video/VID_20130119_004702.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210112/dLight_1/O2 output/2011-08-12 02-21-15-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230817/July_N/VID_20140926_193201.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230228/Dec_none/O2 output/20230228/VID_20140410_020559.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201230/Oct_A/O2 output/2011-07-30 01-15-04-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201029/#87/2011-05-28 21-17-53-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210616/Mar_1/2012-01-13 23-16-26-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231025/June_N/VID_20141204_182439.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220509/dLight_171/VID_20130618_193855.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200224/April_long/2011-12-20 02-55-47-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210201/Sep_3/O2 output/2011-09-01 03-44-28-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240916/XB1/20240915225708_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190712/March_B/2011-05-06 23-43-02-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240823/XB1/20240823024152_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200618/Dec_d/2011-01-15 20-32-04-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200318/Nov_dark/2020-03-18 12-59-15-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241119/XD1/2015-06-18 17-59-48-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190522/Jan3_gray/2011-03-17 00-59-17-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230831/July_N/VID_20141010_231611.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211112/DLS_3/2012-06-11 01-48-01-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190912/May/2019-09-12 15-01-42-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230124/Nov_grey/2013-08-23 00-08-36-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201201/July_3/O2 output/2011-06-30 19-20-36-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230209/Nov_test/O2 output/2013-09-07 23-03-16-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230210/Dec_left/VID_20140322_215604.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210528/Mar_5/2011-12-25 21-37-42-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220526/dLight_62/O2 output/VID_20130705_174608.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220520/dLight_171/O2 output/VID_20130629_212009.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190802/March_A/2011-05-27 23-57-34-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230901/July_N/VID_20141011_212800.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220525/dLight_61/O2 output/20220525_d61/VID_20130704_201228.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201230/Oct_C/2011-07-30 04-30-24-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210126/Sep_3/O2 output/2011-08-26 04-48-09-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190801/March_C/2011-05-27 01-10-52-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240809/X4/O2 output/2015-03-08 21-08-30-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220511/dLight_171/O2 output/VID_20130620_215254.avi
 /n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230211/Dec_none/VID_20140323_232255.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200317/Oct_0/O2 output/2012-01-10 23-53-35-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20250408/HF/20250407221431_000005.TS
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220607/dLight_182/VID_20130717_215355.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200108/Oct_3/2020-01-08 14-10-06-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230214/Dec_none/O2 output/VID_20140327_001247.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190716/March_D/2011-05-11 02-37-44-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240613/X5/VID_20150724_224721.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220511/dLight_61/VID_20130620_232214.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241104/VT5/20241104002053_000002.TS
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230314/Dec_none/VID_20140423_203526.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240822/XB1/20240822002311_000002.TS
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230918/July_N/VID_20141028_213215.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210527/Mar_3/2011-12-24 17-37-12-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230208/Nov_test/2013-09-07 00-10-02-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220506/dLight_153/VID_20130615_210925.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191206/Oct_3/2019-12-06 14-25-23-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240520/X1/VID_20150630_195324.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201209/Oct_B/O2 output/2011-07-08 22-56-29-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240905/XB2/O2 output/2015-04-04 19-20-50-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191108/April_white/2019-11-08 13-53-59-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240527/X1/VID_20150707_224010.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230809/June_N/VID_20140918_231247.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220121/NO_1/O2 output/20220121/VID_20130302_220642.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240619/X2/VID_20150730_220217.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200312/Dec_d/O2 output/2020-03-12 12-27-25-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230123/Dec_slice/VID_20140305_020303.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220502/dLight_62/VID_20130611_165740.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191113/April_long/O2 output/2011-09-08 01-44-32-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201111/Sep_3/2011-06-11 05-09-58-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210111/Oct_A/2011-08-10 22-26-31-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230111/Nov_grey/VID_20140220_215335.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200317/Nov_2/2020-03-17 16-47-43-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220307/NO_2/O2 output/20220307/VID_20130416_221219.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201102/VF_1/2011-06-01 22-32-14-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230208/Dec_slice/VID_20140321_005815.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230106/Nov_test/VID_20140216_003635.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220517/dLight_182/VID_20130626_194317.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201211/Oct_A/O2 output/2011-07-10 20-20-05-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230404/Dec_slice/VID_20140514_205928.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200915/July_3/O2 output/2011-04-14 19-20-14-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210210/Sep_3/2011-09-10 06-15-28-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211115/DLS_1/O2 output/2012-06-14 01-54-39-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240624/VT2/dont analyze too short/2015-01-21 23-13-37-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190702/March_A/O2 output/2011-04-27 00-23-29-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220526/dLight_62/VID_20130705_173606.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201228/Sep_2/O2 output/2011-07-28 05-37-12-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231027/June_R/VID_20141206_214858.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201223/Oct_B/O2 output/2011-07-22 22-04-19-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230223/Dec_slice/VID_20140405_004630.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190702/March_C/O2 output/2011-04-26 23-28-49-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220223/NO_2/VID_20130404_224944.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201023/Jan_1/2011-05-23 02-40-43-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210621/Mar_5/O2 output/2012-01-18 21-28-58-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220302/NO_2/O2 output/20220302/VID_20130411_231514.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231020/June_N/VID_20141129_212457.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210517/Mar_2/O2 output/2011-12-14 19-21-54-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200113/Oct_3/2020-01-13 16-45-21-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220115/NO_2/VID_20130224_222136.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210701/Mar_5/2012-01-28 23-36-52-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190709/Feb_1/2019-07-09 15-17-47-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220517/dLight_152/O2 output/20220517/VID_20130626_151330.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220308/NO_1/VID_20130418_002119.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231025/June_N/VID_20141204_180936.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200207/Nov_ON/2020-02-07 13-05-44-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220616/dLight_182/VID_20130726_220831.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231002/July_R/2014-04-30 20-22-47-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201117/dLight_2/2011-06-17 00-10-42-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210114/Oct_A/O2 output/2011-08-14 00-40-07-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220601/dLight_182/VID_20130711_194828.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190815/March_C/2011-06-10 00-41-20-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220301/NO_2/O2 output/20220301/VID_20130410_221421.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201228/dLight_4/2011-07-28 01-01-45-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230213/Dec_slice/VID_20140326_010642.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191101/April_short/O2 output/2011-08-27 01-11-06-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230830/June_N/VID_20141009_192046.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190524/Feb_3/2019-05-24 12-54-44-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230105/Nov_grey/VID_20140215_010315.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220304/NO_1/O2 output/20220304/VID_20130413_234646.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200623/VF_1/2011-01-20 21-25-21-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210602/Mar_4/2011-12-30 23-51-53-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230830/July_R/2014-03-28 21-27-54-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200313/Nov_2/2020-03-13 12-56-59-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200306/Oct_0/O2 output/2011-12-31 01-02-52-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210528/Mar_6/O2 output/2011-12-25 22-45-05-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210618/Mar_1/O2 output/2012-01-15 23-53-54-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191018/April_long/2011-08-13 00-39-07-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220610/dLight_62/VID_20130720_172027.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200224/Dec_d/2020-02-24 17-57-33-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240724/XB2/VID_20150903_182840.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210128/Oct_A/2011-08-27 22-27-48-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231006/June_R/VID_20141115_231443.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230131/Dec_slice/VID_20140312_231359.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230920/July_N/VID_20141031_003217.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210216/Oct_B/O2 output/2011-09-16 02-44-19-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220610/dLight_171/VID_20130720_215953.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220317/NO_1/VID_20130426_225215.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190926/April_white/O2 output/2019-09-26 15-41-46-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201214/Oct_B/O2 output/2011-07-14 01-47-21-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190807/Feb_2/2019-08-07 14-45-02-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220510/dLight_182/VID_20130619_230517.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220511/dLight_182/VID_20130620_221801.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230307/Dec_left/VID_20140416_233440.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201023/July_3/O2 output/2011-05-22 21-16-08-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210112/Sep_2/O2 output/2011-08-12 05-35-29-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190628/Jan3_gray/O2 output/2011-04-23 02-02-22-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191106/April_white/2019-11-06 17-36-23-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230130/Nov_grey/O2 output/2013-08-28 23-58-39-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210519/Mar_3/2011-12-16 18-00-30-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230213/Dec_none/VID_20140325_233449.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220207/NO_1/O2 output/20220207/VID_20130320_014218.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220510/dLight_181/VID_20130619_221138.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240620/VT2/2015-01-17 18-23-45-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210113/Oct_C/O2 output/2011-08-12 23-59-30-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230221/Nov_test/O2 output/2013-09-19 23-43-51-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220503/dLight_171/O2 output/20220503/VID_20130612_170231.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230814/June_N/VID_20140924_015206.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220615/dLight_172/VID_20130725_183950.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190711/Feb_2/2019-07-11 12-59-33-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220202/NO_2/O2 output/VID_20130314_214103.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220509/dLight_181/VID_20130618_222517.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210428/Mar_2/2011-11-25 19-14-59-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210706/Mar_2/O2 output/2012-02-03 00-05-39-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230404/Dec_left/VID_20140514_214124.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220526/dLight_61/VID_20130705_221127.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230324/Dec_left/VID_20140503_222701.avi
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240910/X4/2015-04-09 19-58-53-C.AVI
-/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240524/X5/VID_20150704_192144.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230228/Dec_none/VID_20140410_014055.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201204/July_3/2011-07-03 19-05-13-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240829/XB1/20240829010241_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220502/dLight_62/VID_20130611_165239.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201125/dLight_3/O2 output/2011-06-24 17-34-27-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240703/X1/VID_20150813_214725.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220207/NO_2/O2 output/20220207/VID_20130319_210713.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240617/X1/VID_20150728_233407.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200131/Oct_3/O2 output/2020-01-31 15-11-44-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220131/NO_1/O2 output/20220131/VID_20130312_233156.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201111/dLight_4/O2 output/2011-06-10 18-24-11-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201111/Sep_2/2011-06-11 03-35-10-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200312/Nov_2/2020-03-12 16-20-02-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230726/July_N/VID_20140905_015056.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230814/June_N/VID_20140924_012201.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240524/X5/VID_20150704_183637.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220210/NO_1/VID_20130323_001138.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191210/Oct_3/O2 output/2019-12-10 17-00-21-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210114/dLight_2/2011-08-14 02-20-58-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230721/July_L/2014-02-16 21-07-17-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201229/Sep_3/2011-07-29 06-13-25-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220607/dLight_181/VID_20130717_195653.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230323/Dec_slice/VID_20140502_221422.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200318/Nov_2/2020-03-18 11-38-25-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220519/dLight_171/VID_20130628_214637.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230831/July_N/VID_20141010_232111.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190611/Feb_1/2019-06-11 16-50-43-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220525/dLight_181/VID_20130704_193327.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230202/Dec_none/VID_20140314_225055.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210514/Mar_6/2011-12-11 20-03-49-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190710/March_C/O2 output/2011-05-05 01-06-50-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210126/Sep_2/2011-08-26 03-54-31-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20221214/Nov_test/VID_20140124_020855.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220527/dLight_171/VID_20130706_204500.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220609/dLight_62/VID_20130719_204217.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200829/Jan_1/2011-03-28 21-45-10-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220603/dLight_152/VID_20130713_145130.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190703/March_D/O2 output/2011-04-28 00-58-19-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220201/NO_1/VID_20130313_235311.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210129/dLight_1/O2 output/2011-08-28 23-23-21-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210610/Mar_1/2012-01-08 00-58-13-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240911/X1/2015-04-10 20-11-55-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200729/Oct_0/2011-02-26 01-34-07-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210118/dLight_2/O2 output/2011-08-17 23-40-41-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220513/dLight_172/VID_20130622_185410.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240822/X4/2015-03-21 20-24-54-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210610/Mar_3/O2 output/2012-01-07 21-12-07-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240813/XA1/20240813011558_000001.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230227/Dec_none/O2 output/20230227/VID_20140408_230907.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201215/Oct_D/O2 output/2011-07-15 01-12-27-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190604/3F_white/O2 output/2011-03-30 03-02-33-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210415/Mar_2/2011-11-12 22-21-32-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220509/dLight_172/VID_20130618_202111.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201210/Sep_3/2011-07-10 04-21-36-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220607/dLight_61/VID_20130717_203352.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210108/dLight_2/O2 output/2011-08-08 00-24-51-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191114/April_short/O2 output/2011-09-09 02-40-19-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220429/dLight_62/O2 output/VID_20130608_220429.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20241011/XA2/20241010233537_000003.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210503/Mar_3/O2 output/2011-11-30 19-29-02-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220201/NO_1/VID_20130313_231806.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200115/April_white/O2 output/2020-01-15 15-01-35-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220601/dLight_171/VID_20130711_203641.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240903/VT5/20240903012456_000002.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240701/X1/VID_20150811_165604.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230925/July_R/2014-04-23 22-41-25-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240613/X1/O2 output/VID_20150724_192044.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240612/X2/VID_20150723_205943.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210209/Oct_B/2011-09-08 20-30-43-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210127/Oct_A/2011-08-26 21-12-44-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220503/dLight_182/VID_20130612_211700.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230803/July_N/VID_20140912_211540.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191105/April_white/O2 output/2019-11-05 15-16-41-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20211210/DLS_3/O2 output/VID_20130119_215103.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230724/June_N/VID_20140902_214659.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220307/NO_1/VID_20130417_004419.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230206/Dec_slice/VID_20140318_235104.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201204/Oct_B/2011-07-03 21-55-58-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231020/July_N/VID_20141129_231942.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240918/XA2/20240918000320_000002.TS
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220422/dLight_152/VID_20130601_214500.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220601/dLight_153/VID_20130711_230927.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190621/March_C/O2 output/2011-04-16 00-04-42-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230215/Dec_slice/VID_20140328_011533.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220215/NO_1/O2 output/20220215/VID_20130327_231214.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20210114/Oct_B/O2 output/2011-08-14 00-11-16-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20240604/X5/VID_20150715_212326.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190730/Feb_2/2019-07-30 15-57-51-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20231009/July_N/VID_20141119_003738.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220315/NO_1/O2 output/20220315/VID_20130424_221129.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20201229/Sep_3/O2 output/2011-07-29 06-13-25-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230208/Dec_left/VID_20140320_224810.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20191009/April_white/2019-10-09 13-46-11-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20200623/Nov_2/2011-01-20 16-23-26-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220127/NO_1/VID_20130308_234733.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20190926/April_white/O2 output/2019-09-26 16-11-34-C.AVI
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20230727/June_N/VID_20140906_003206.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220118/NO_1/VID_20130227_192928.avi
+/n/files/Neurobio/MICROSCOPE/Kim/KER Behavior/By date/Low speed/20220509/dLight_153/VID_20130618_213031.avi

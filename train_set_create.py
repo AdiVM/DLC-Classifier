@@ -353,7 +353,13 @@ def process_video(video_path, zone_path, frame_indices, output_dir, csv_log_path
 
     # Save DLC CSV
     dlc_df = pd.DataFrame(dlc_rows)
-    dlc_df.to_csv(os.path.join(output_dir, "CollectedData_Auto.csv"), index=False)
+    csv_path = os.path.join(output_dir, "CollectedData_Auto.csv")
+
+    # When the  file exists, append without writing header
+    if os.path.exists(csv_path):
+        dlc_df.to_csv(csv_path, mode='a', index=False, header=False)
+    else:
+        dlc_df.to_csv(csv_path, mode='w', index=False, header=True)
     print(f"\nDeepLabCut-compatible CSV saved to: {os.path.join(output_dir, 'CollectedData_Auto.csv')}")
 
 # def generate_dlc_csv(zone_csv_path, output_path):
@@ -386,7 +392,7 @@ def process_video(video_path, zone_path, frame_indices, output_dir, csv_log_path
 
 # --- MAIN SCRIPT ---
 if __name__ == "__main__":
-    MAX_VIDEOS = 10
+    MAX_VIDEOS = 15
     FRAMES_PER_VIDEO = 40
 
     pairs = find_all_videos_and_zones(ROOT_DIR)

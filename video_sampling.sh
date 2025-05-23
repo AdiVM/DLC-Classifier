@@ -15,7 +15,7 @@ mkdir -p "$DEST_DIR"
 CSV_LOG="$DEST_DIR/video_copy_log.csv"
 echo "video_filename,source_path,destination_path" > "$CSV_LOG"  ### CSV HEADER
 
-# Find all .avi, .AVI, or .TS files across all subfolders and sample 100 randomly
+# Find all .avi, .AVI, or .TS files across all subfolders and sample 500 randomly
 find "$SRC_DIR" -type f \( -iname "*.avi" -o -iname "*.ts" \) | shuf -n 500 > sampled_videos.txt
 
 # Loop through each sampled file and copy it + its matching _zones.mat file
