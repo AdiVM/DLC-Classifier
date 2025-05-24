@@ -6,7 +6,7 @@ This repository contains code for training and evaluating a DeepLabCut-based neu
 
 ### Notebooks
 - **DLC_Compatible_File_Creation.ipynb**  
-  Creates DLC-compatible CSV files from preprocessed video data and zone annotations.
+  Creates DLC-compatible CSV files from preprocessed video data and zone annotations. The commented out steps in this notebook are also where the DLC project is created.
 
 - **DLC_Evaluation.ipynb**  
   Evaluates a trained DLC model on a held-out evaluation set, visualizing predictions and confidence.
