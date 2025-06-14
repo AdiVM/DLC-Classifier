@@ -111,7 +111,8 @@ def find_interesting_frames_streaming(video_path, percentile=90):
     interesting = [i + 1 for i, d in enumerate(diffs) if d > threshold]
     return interesting
 
-def find_top_frames_per_zone(zones, gray_frames, num_frames=4):
+def find_top_frames_per_zone(zones, gray_frames, num_frames=1):
+    # num_frames argument can be updated to pull more frames from each video.
     zone_frame_map = {}
 
     height, width = gray_frames[0].shape
